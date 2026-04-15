@@ -1,8 +1,0 @@
-{
-  "Server":[
-    {
-      "TunnelPort":"9000",
-      "OpenPort": "8888"
-    }
-  ]
-}
